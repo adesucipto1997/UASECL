@@ -1,5 +1,5 @@
 ## Deksripsi
-Aplikasi ini untuk memenuhi tugas ECL-9 nama Ade Sucipto
+Ini ditujukan untuk memenuhi tugas UAS ECL-9 nama Ade Sucipto
 ## Instalasi
 Download file lalau jalan kan ``composer install`` setting database di   ``.env`` 
 ## Penjelasan Source Code
