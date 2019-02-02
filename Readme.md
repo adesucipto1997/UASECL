@@ -1,7 +1,5 @@
 ## Deksripsi
 Ini ditujukan untuk memenuhi tugas UAS ECL-9 nama Ade Sucipto
-## Instalasi
-Download file lalau jalan kan ``composer install`` setting database di   ``.env`` 
 ## Penjelasan Source Code
 1. fungsi public function home pada Kelas.php berfungsi menampilkan data kelas
 2. fungsi public function add pada Kelas.php berfungsi menampilkan form tambah data kelas
@@ -16,3 +14,5 @@ Download file lalau jalan kan ``composer install`` setting database di   ``.env`
 11. fungsi public function edit pada siswa.php berfungsi menampilkan form edit data siswa
 12. fungsi public function editpost pada siswa.php berfungsi mengedit data siswa
 13. fungsi public function hapus pada siswa.php berfungsi menghapus data siswa sesuai dengan $id
+## Kesimpulan
+untuk bahasa laravel ini menurut saya sulit berbeda dengan bahasa CI yang mudah dimenegerti. tapi untuk Laravel apabila ada error mudah diketahui karena diberitahu langsung eror nya dimana dengan tampilan yang bagus, sedangkan untuk CI hanya dijelaskan di bagian mana error nya
