@@ -10,7 +10,7 @@
       Laravel
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2018 <a href="#">Rizkan</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2018 <a href="#">Ade Sucipto</a>.</strong> All rights reserved.
   </footer>
 
 </div>
